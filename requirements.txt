@@ -1,0 +1,5 @@
+black==21.12b0
+click==8.0.3
+kafka-python==2.0.2
+fastapi==0.109.2
+uvicorn==0.27.1
